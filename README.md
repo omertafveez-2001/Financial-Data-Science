@@ -1,5 +1,5 @@
 # Financial-Data-Science
-A beginner-level introduction to Financial Data Science including visualizations, I/O Operations, and handling Financial Time Series
+A beginner-level introduction to Financial Data Science including visualizations, I/O Operations, and handling Financial Time Series in Python
 
 ## Chapter: Visualisation
 This notebook is about basic visualizations of the matplotlib and plotly packages. Although more visualization packages are available, matplotlib has established itself as the benchmark and, in many situations, a robust and reliable visualization tool.
